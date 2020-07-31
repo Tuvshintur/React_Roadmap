@@ -1,0 +1,11 @@
+plugins:
+    - jekyll-relative-links
+relative_links:
+    enabled: true
+    collections: true
+include:
+    - 1. Fundamental Topics\1. CreateReactApp.md
+    - 1. Fundamental Topics\2. JSX.md
+    - 1. Fundamental Topics\3. Components.md
+    - 1. Fundamental Topics\4. Props vs States.md
+    - 1. Fundamental Topics\5.Conditional Rendering.md
